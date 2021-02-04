@@ -14,6 +14,8 @@
 .footer {
   background: #000000;
   color: #FFFFFF;
+  font-size: 20px;
+  font-family: "Rage Italic";
 }
 
 .nav {
@@ -32,6 +34,12 @@
 .counter-text {
   text-decoration: none;
   color: black;
+}
+
+.music-page {
+  font-family: "Rage Italic";
+  font-size: 20px;
+  color: #eee;
 }
 
 .photos {
