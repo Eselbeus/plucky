@@ -9,6 +9,8 @@ function Music(){
       <iframe src="https://open.spotify.com/embed/artist/2LBJr3uzzw5jg2ngbh2PpC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       <p>P.Lucky Kobby A. on Spotify</p>
       <iframe src="https://open.spotify.com/embed/artist/36zFDKB2TW3pwkeemBqplq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <p>P.Lucky on Bandcamp</p>
+      <iframe src="https://bandcamp.com/EmbeddedPlayer/track=4009958565/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://plucky1.bandcamp.com/track/im-stuck-2">I&#39;m Stuck by P. Lucky</a></iframe>
     </div>
   )
 }

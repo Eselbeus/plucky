@@ -9,6 +9,7 @@ class Nav extends React.Component {
         <NavLink className="nav-elem" to="/">Home</NavLink>
         <NavLink className="nav-elem" to="/music">Music</NavLink>
         <NavLink className="nav-elem" to="/media">Gallery</NavLink>
+        <a className="nav-elem" target="_blank" href="https://plucky1.bandcamp.com/">Store</a>
       </nav>
     )
   }
