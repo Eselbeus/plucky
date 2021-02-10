@@ -16,12 +16,8 @@
   margin-left: 10%;
   margin-right: 10%;
   font-size: 24px;
-  font-family: "Rage Italic";
+  font-family: "Rage Italic", 'Brush Script MT', cursive;
   letter-spacing: 1.25px;
-}
-
-.homevid {
-
 }
 
 .logo {
@@ -32,7 +28,7 @@
   background: #000000;
   color: #FFFFFF;
   font-size: 20px;
-  font-family: "Rage Italic";
+  font-family: "Rage Italic", 'Brush Script MT', cursive;
 }
 
 .nav {
@@ -45,7 +41,7 @@
   padding: 2rem;
   color: #eee;
   font-size: 28px;
-  font-family: "Rage Italic";
+  font-family: "Rage Italic", 'Brush Script MT', cursive;
   letter-spacing: 1.25px;
 }
 
@@ -55,7 +51,7 @@
 }
 
 .music-page {
-  font-family: "Rage Italic";
+  font-family: "Rage Italic", 'Brush Script MT', cursive;
   letter-spacing: 1.25px;
   font-size: 20px;
   color: #eee;
