@@ -20,22 +20,22 @@ function Media(){
   return(
     <div>
       <div className="photo-container">
-        <img className="photos" src={bench1}/>
-        <img className="photos" src={bwS}/>
-        <img className="photos" src={car}/>
-        <img className="photos" src={pMas}/>
-        <img className="photos" src={face1}/>
-        <img className="photos" src={bench2}/>
-        <img className="photos" src={pMas1}/>
-        <img className="photos" src={face2}/>
-        <img className="photos" src={lightS}/>
-        <img className="photos" src={pMas2}/>
-        <img className="photos" src={sittingC}/>
-        <img className="photos" src={squattingW}/>
-        <img className="photos" src={pMas3}/>
-        <img className="photos" src={standingC}/>
-        <img className="photos" src={standingW}/>
-        <img className="photos" src={pMas4}/>
+        <img className="photos" alt="" src={bench1}/>
+        <img className="photos" alt="" src={bwS}/>
+        <img className="photos" alt="" src={car}/>
+        <img className="photos" alt="" src={pMas}/>
+        <img className="photos" alt="" src={face1}/>
+        <img className="photos" alt="" src={bench2}/>
+        <img className="photos" alt="" src={pMas1}/>
+        <img className="photos" alt="" src={face2}/>
+        <img className="photos" alt="" src={lightS}/>
+        <img className="photos" alt="" src={pMas2}/>
+        <img className="photos" alt="" src={sittingC}/>
+        <img className="photos" alt="" src={squattingW}/>
+        <img className="photos" alt="" src={pMas3}/>
+        <img className="photos" alt="" src={standingC}/>
+        <img className="photos" alt="" src={standingW}/>
+        <img className="photos" alt="" src={pMas4}/>
       </div>
     </div>
   )

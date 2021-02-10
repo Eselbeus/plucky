@@ -6,7 +6,7 @@ import '../App.css';
 function Home(){
   return(
     <div className='home'>
-      <img className="logo" src={logo} />
+      <img className="logo" alt="logo" src={logo} />
       <div className="bio">
       <p>P. Lucky is a rapper and songwriter from Vienna, Austria. </p>
       <p>"I began rapping at the age of 31 and I wrote and recorded my first song in April, 2020. One of my favorite artists/musical influences is Travis Garland. In my free time I enjoy movies, hanging out with friends and going to the gym.
