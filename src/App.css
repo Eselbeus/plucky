@@ -22,6 +22,8 @@
 
 .logo {
   height: 30rem;
+  width: 90%;
+  object-fit: scale-down;
 }
 
 .footer {
@@ -45,6 +47,17 @@
   letter-spacing: 1.25px;
 }
 
+@media (max-width: 640px) {
+  .nav-elem {
+    text-decoration: none;
+    padding: 0.6rem;
+    color: #eee;
+    font-size: 20px;
+    font-family: "Rage Italic", 'Brush Script MT', cursive;
+    letter-spacing: 1.25px;
+  }
+}
+
 .counter-text {
   text-decoration: none;
   color: black;
@@ -58,6 +71,10 @@
 }
 
 .photos {
-  width: 200px;
+  width: 300px;
   padding: 1rem;
+}
+
+.home-vid {
+  width: 90%;
 }
