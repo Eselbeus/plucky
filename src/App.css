@@ -11,7 +11,7 @@
   margin-left: 10%;
   margin-right: 10%;
   font-size: 24px;
-  font-family: "Rage Italic", 'Brush Script MT', cursive;
+  font-family: "Century Gothic", CenturyGothic, Georgia, "Palatino Linotype", Tahoma;
   letter-spacing: 1.25px;
 }
 
@@ -25,7 +25,7 @@
   background: #000000;
   color: #FFFFFF;
   font-size: 20px;
-  font-family: "Rage Italic", 'Brush Script MT', cursive;
+  font-family: "Century Gothic", CenturyGothic, Georgia, "Palatino Linotype", Tahoma;
 }
 
 .nav {
@@ -38,7 +38,7 @@
   padding: 2rem;
   color: #eee;
   font-size: 28px;
-  font-family: "Rage Italic", 'Brush Script MT', cursive;
+  font-family: "Century Gothic", CenturyGothic, Georgia, "Palatino Linotype", Tahoma;
   letter-spacing: 1.25px;
 }
 
@@ -48,7 +48,7 @@
     padding: 0.6rem;
     color: #eee;
     font-size: 20px;
-    font-family: "Rage Italic", 'Brush Script MT', cursive;
+    font-family: "Century Gothic", CenturyGothic, Georgia, "Palatino Linotype", Tahoma;
     letter-spacing: 1.25px;
   }
 }
@@ -59,7 +59,7 @@
 }
 
 .music-page {
-  font-family: "Rage Italic", 'Brush Script MT', cursive;
+  font-family: "Century Gothic", CenturyGothic, Georgia, "Palatino Linotype", Tahoma;
   letter-spacing: 1.25px;
   font-size: 20px;
   color: #eee;
@@ -72,4 +72,10 @@
 
 .home-vid {
   width: 90%;
+}
+
+.social-icon {
+  max-width: 40px;
+  max-height: 40px;
+  padding: 0.5rem;
 }
