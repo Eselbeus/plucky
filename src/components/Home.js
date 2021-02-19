@@ -13,7 +13,7 @@ function Home(){
     <div className='home'>
       <img className="logo" alt="logo" src={logo} />
       <div className="bio">
-      <p>Follow on</p>
+      <p>Click below to follow on</p>
       <span className="social-icons">
         <a href="https://www.instagram.com/p.lucky__official"><img className="social-icon" src={ig} alt="instagram"/></a>
         <a href="https://www.youtube.com/channel/UCee6mxIZsuwynoxdpuZa8zg"><img className="social-icon" src={yt} alt="youtube"/></a>
